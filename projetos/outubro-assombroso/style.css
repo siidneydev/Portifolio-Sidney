@@ -1,0 +1,110 @@
+
+body {
+    background-color: #160d20;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #29123d;
+}
+
+.navbar-brand {
+    color: #ff851b !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.banner {
+    background: linear-gradient(135deg, #32104a, #a34000);
+    text-align: center;
+    padding: 90px 20px;
+}
+
+.banner h1 {
+    color: #ffad33;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.botao {
+    background-color: #ff851b;
+    color: #1b1023;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: #ffc107;
+}
+
+.titulo {
+    color: #ff851b;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #2b1938;
+    color: white;
+    border: 1px solid #684080;
+    height: 100%;
+}
+
+.emoji {
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.accordion-item {
+    background-color: #2b1938;
+    color: white;
+    border-color: #684080;
+}
+
+.accordion-button {
+    background-color: #39204b;
+    color: white;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #603080;
+    color: white;
+}
+
+.accordion-button::after {
+    filter: brightness(0) invert(1);
+}
+
+.aviso {
+    background-color: #49220d;
+    color: #ffe2c6;
+    border-color: #ff851b;
+}
+
+.caixa {
+    background-color: #2b1938;
+    border: 1px solid #684080;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.progress {
+    height: 25px;
+    background-color: #100819;
+}
+
+footer {
+    background-color: #29123d;
+    text-align: center;
+    padding: 25px;
+    margin-top: 40px;
+}
+
+section {
+    scroll-margin-top: 80px;
+}
