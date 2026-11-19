@@ -25,3 +25,5 @@ A seção de projetos acadêmicos contém cartões-modelo. Substitua-os pelos pr
 ## Projeto acadêmico incluído
 O trabalho `Outubro Assombroso` foi incluído na pasta `projetos/outubro-assombroso/`.
 Na seção Projetos do portfólio, o link **Visualizar projeto** abre o `index.html` original desse trabalho.
+
+https://siidneydev.github.io/Portifolio-Sidney/
